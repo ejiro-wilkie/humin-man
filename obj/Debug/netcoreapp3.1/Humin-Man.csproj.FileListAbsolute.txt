@@ -1,9 +1,0 @@
-C:\Users\EjiroWilkie\Documents\Humin man\Humin-Man\obj\Debug\netcoreapp3.1\Humin-Man.csproj.AssemblyReference.cache
-C:\Users\EjiroWilkie\Documents\Humin man\Humin-Man\obj\Debug\netcoreapp3.1\Humin-Man.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\EjiroWilkie\Documents\Humin man\Humin-Man\obj\Debug\netcoreapp3.1\Humin-Man.AssemblyInfoInputs.cache
-C:\Users\EjiroWilkie\Documents\Humin man\Humin-Man\obj\Debug\netcoreapp3.1\Humin-Man.AssemblyInfo.cs
-C:\Users\EjiroWilkie\Documents\Humin man\Humin-Man\obj\Debug\netcoreapp3.1\Humin-Man.csproj.CoreCompileInputs.cache
-C:\Users\EjiroWilkie\Documents\Humin man\Humin-Man\obj\Debug\netcoreapp3.1\Humin-Man.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\EjiroWilkie\Documents\Humin man\Humin-Man\obj\Debug\netcoreapp3.1\Humin-Man.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\EjiroWilkie\Documents\Humin man\Humin-Man\obj\Debug\netcoreapp3.1\Humin-Man.RazorAssemblyInfo.cache
-C:\Users\EjiroWilkie\Documents\Humin man\Humin-Man\obj\Debug\netcoreapp3.1\Humin-Man.RazorAssemblyInfo.cs
