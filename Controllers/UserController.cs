@@ -171,11 +171,14 @@ namespace Humin_Man.Controllers
         public async Task<IActionResult> Update(UpdateUserInputViewModel input)
         {
             var user = await _userService.GetAsync(input.Id);
-            user.Email = input.Email;
-            user.FirstName = input.FirstName;
-            user.LastName = input.LastName;
-            user.PhoneNumber = input.PhoneNumber;
-            user.UserName = input.UserName;
+
+            //TODO complete Update Async function
+            var updateUserInput = _userViewModelConverter.Convert(input);
+
+            await _userService.UpdateAsync(updateUserInput);
+
+            return RedirectToAction("Index");
+
 
         }
  /// <summary>
